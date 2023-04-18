@@ -1,7 +1,4 @@
 
-
-Uploading FoodCircles Video with Audio.mp4…
-
 # FoodCircles - Food-Delivery-Web-App
 
 This is a web application for food delivery. It uses the Swiggy public API to fetch data and generate responses for restaurant cards and menus.
