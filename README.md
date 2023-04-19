@@ -15,3 +15,7 @@ Features :
 
 DISCLAIMER :
 If you are trying to access the live website kindly use this extension and enable it so that 3rd party API can run. https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en
+
+
+https://user-images.githubusercontent.com/92144123/233054800-3b74fb01-86c5-4290-9fc0-623c368805a4.mp4
+
